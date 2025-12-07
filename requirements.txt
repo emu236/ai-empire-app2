@@ -1,0 +1,14 @@
+streamlit
+openai
+python-dotenv
+stripe
+bcrypt
+requests
+matplotlib
+pandas
+pydub
+duckduckgo-search
+google-generativeai
+Pillow
+fpdf
+psycopg2-binary
